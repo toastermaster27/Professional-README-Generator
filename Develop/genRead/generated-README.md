@@ -1,4 +1,4 @@
-# y
+# Professional README Generator
   [undefined](https://choosealicense.com/licenses/undefined)
   ## Table-of-Contents
   * [Description](#description)
@@ -11,27 +11,27 @@
 
   * [Tests](#tests)
   
-  ## [Description](#table-of-contents)
+  ## [Description]
 
-  y
+  Creates an easy and efficient way to create a README for any project.
 
   ## [Purpose]
 
-  y
+  This application was created to save time on creating README files for projects, which can sometimes take a substantial amount of time.
 
   ## [What I Learned]
 
-  y
+  I learned how to create a README file using JavaScript and inquirer during this project. I also learned how to create questions in the terminal which will reflect in a file that is auto-generated.
 
 
-  ## [Installation](#table-of-contents)
+  ## [Installation]
 
-  y
+  Download source code and run node index in terminal to use application.
 
 
-  ## [Usage](#table-of-contents)
+  ## [Usage]
 
-  y
+  This project can be used to allocate more time towards working on the project at hand instead of spending unnecessary time typing up a README file.
   
   
   ## [License](#table-of-contents) This project is covered under the following license: 
@@ -43,11 +43,12 @@
   
   ## [Tests](#table-of-contents)
 
-  y
+  n/a
 
 
   ## [Questions](#table-of-contents)
 
   Contact me:
   [GitHub](https://github.com/undefined)
+
 
